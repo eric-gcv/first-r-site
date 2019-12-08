@@ -8,5 +8,5 @@ title: Home
 weight: 1
 ---
 
-# Terrassa
-## The Hugo theme for you. Or for your company.
+# Zajac: Masaje Infantil
+## La mejor decisión para ti y tu bebé.
